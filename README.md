@@ -3,7 +3,7 @@ Hello 👋 I'm JK
 IoT / LoRaWAN / Embedded Systems Developer
 Working with Gateway, MQTT, Modbus, Node-RED, UC100, Sensors 🚀
 
-🛠 Technologies & Tools
+🛠 Technologies & Tools: Milesight Toolbox, Gateway,..
 
 
 
@@ -30,7 +30,7 @@ AI Occupancy Sensor
 Industrial IoT Dashboard
 📊 GitHub Stats
 
-🔥 Most Used Languages
+🔥 Most Used Languages: C++, Js, HTML
 
 
 ## 🌐 Connect With Me
