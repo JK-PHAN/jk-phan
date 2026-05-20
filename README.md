@@ -39,10 +39,20 @@ Working with Gateway, MQTT, Modbus, Node-RED, UC100, Sensors 🚀
 
 
 
-🧠 Currently Learning
-Machine Vision
-Industrial Automation
-Edge AI
-Embedded Linux
-⚡ Fun Fact
-Debugging today saves production tomorrow 😄
+## 🧠 Currently Learning
+
+- Industrial IoT Architecture
+- Embedded Linux Systems
+- Edge AI & Smart Automation
+- Machine Vision Applications
+- Advanced Modbus & MQTT Integration
+
+---
+
+## ⚡ Fun Fact
+
+```bash
+99% of IoT problems are:
+- Power issue
+- Wiring issue
+- Wrong baudrate 😄
