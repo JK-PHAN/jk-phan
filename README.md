@@ -32,7 +32,7 @@ Industrial IoT Dashboard
 
 🔥 Most Used Languages
 
-🌐 Connect With Me
+
 ## 🌐 Connect With Me
 
 <p align="left">
