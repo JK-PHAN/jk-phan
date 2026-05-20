@@ -5,31 +5,23 @@ Working with Gateway, MQTT, Modbus, Node-RED, UC100, Sensors 🚀
 
 🛠 Technologies & Tools: Milesight Toolbox, Gateway,..
 
+## 💼 Current Work
 
+- IT Support Engineer at VIoT
+- LoRaWAN Gateway Deployment & Troubleshooting
+- UC100 / Modbus Device Integration
+- Industrial IoT System Support
+- Sensor Configuration & Monitoring
+- MQTT / Node-RED Data Processing
+- Customer Technical Support
 
+---
 
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-
-
-
-
-
-
-
-
-
-
-
-
-📡 Current Projects
-LoRaWAN Gateway Setup
-UC100 Modbus Integration
-Smart Water Meter Monitoring
-AI Occupancy Sensor
-Industrial IoT Dashboard
-📊 GitHub Stats
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 🔥 Most Used Languages: C++, Js, HTML
 
 
